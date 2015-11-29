@@ -3,4 +3,5 @@
 
 AnkhLib::AnkhLib()
 {
+    qDebug() << "firtst    commint";
 }
